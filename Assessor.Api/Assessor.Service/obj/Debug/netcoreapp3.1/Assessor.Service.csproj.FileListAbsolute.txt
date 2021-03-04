@@ -1,0 +1,14 @@
+D:\projetos\AssessorProject\Assessor.Api\Assessor.Service\bin\Debug\netcoreapp3.1\Assessor.Service.deps.json
+D:\projetos\AssessorProject\Assessor.Api\Assessor.Service\bin\Debug\netcoreapp3.1\Assessor.Service.dll
+D:\projetos\AssessorProject\Assessor.Api\Assessor.Service\obj\Debug\netcoreapp3.1\Assessor.Service.csprojAssemblyReference.cache
+D:\projetos\AssessorProject\Assessor.Api\Assessor.Service\obj\Debug\netcoreapp3.1\Assessor.Service.AssemblyInfoInputs.cache
+D:\projetos\AssessorProject\Assessor.Api\Assessor.Service\obj\Debug\netcoreapp3.1\Assessor.Service.AssemblyInfo.cs
+D:\projetos\AssessorProject\Assessor.Api\Assessor.Service\obj\Debug\netcoreapp3.1\Assessor.Service.csproj.CoreCompileInputs.cache
+D:\projetos\AssessorProject\Assessor.Api\Assessor.Service\bin\Debug\netcoreapp3.1\Assessor.Service.pdb
+D:\projetos\AssessorProject\Assessor.Api\Assessor.Service\bin\Debug\netcoreapp3.1\Assessor.Domain.dll
+D:\projetos\AssessorProject\Assessor.Api\Assessor.Service\bin\Debug\netcoreapp3.1\Assessor.Infra.dll
+D:\projetos\AssessorProject\Assessor.Api\Assessor.Service\bin\Debug\netcoreapp3.1\Assessor.Domain.pdb
+D:\projetos\AssessorProject\Assessor.Api\Assessor.Service\bin\Debug\netcoreapp3.1\Assessor.Infra.pdb
+D:\projetos\AssessorProject\Assessor.Api\Assessor.Service\obj\Debug\netcoreapp3.1\Assessor.Service.csproj.CopyComplete
+D:\projetos\AssessorProject\Assessor.Api\Assessor.Service\obj\Debug\netcoreapp3.1\Assessor.Service.dll
+D:\projetos\AssessorProject\Assessor.Api\Assessor.Service\obj\Debug\netcoreapp3.1\Assessor.Service.pdb

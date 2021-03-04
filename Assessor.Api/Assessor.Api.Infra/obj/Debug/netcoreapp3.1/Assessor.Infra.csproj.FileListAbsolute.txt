@@ -1,0 +1,12 @@
+D:\projetos\AssessorProject\Assessor.Api\Assessor.Api.Infra\bin\Debug\netcoreapp3.1\Assessor.Infra.deps.json
+D:\projetos\AssessorProject\Assessor.Api\Assessor.Api.Infra\bin\Debug\netcoreapp3.1\Assessor.Infra.dll
+D:\projetos\AssessorProject\Assessor.Api\Assessor.Api.Infra\obj\Debug\netcoreapp3.1\Assessor.Infra.AssemblyInfoInputs.cache
+D:\projetos\AssessorProject\Assessor.Api\Assessor.Api.Infra\obj\Debug\netcoreapp3.1\Assessor.Infra.AssemblyInfo.cs
+D:\projetos\AssessorProject\Assessor.Api\Assessor.Api.Infra\obj\Debug\netcoreapp3.1\Assessor.Infra.csprojAssemblyReference.cache
+D:\projetos\AssessorProject\Assessor.Api\Assessor.Api.Infra\bin\Debug\netcoreapp3.1\Assessor.Infra.pdb
+D:\projetos\AssessorProject\Assessor.Api\Assessor.Api.Infra\obj\Debug\netcoreapp3.1\Assessor.Infra.csproj.CoreCompileInputs.cache
+D:\projetos\AssessorProject\Assessor.Api\Assessor.Api.Infra\obj\Debug\netcoreapp3.1\Assessor.Infra.dll
+D:\projetos\AssessorProject\Assessor.Api\Assessor.Api.Infra\obj\Debug\netcoreapp3.1\Assessor.Infra.pdb
+D:\projetos\AssessorProject\Assessor.Api\Assessor.Api.Infra\bin\Debug\netcoreapp3.1\Assessor.Domain.dll
+D:\projetos\AssessorProject\Assessor.Api\Assessor.Api.Infra\bin\Debug\netcoreapp3.1\Assessor.Domain.pdb
+D:\projetos\AssessorProject\Assessor.Api\Assessor.Api.Infra\obj\Debug\netcoreapp3.1\Assessor.Infra.csproj.CopyComplete

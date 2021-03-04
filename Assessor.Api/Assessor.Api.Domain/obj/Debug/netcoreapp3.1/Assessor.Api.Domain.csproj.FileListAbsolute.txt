@@ -1,0 +1,5 @@
+D:\projetos\AssessorProject\Assessor.Api\Assessor.Api.Domain\bin\Debug\netcoreapp3.1\Assessor.Api.Domain.deps.json
+D:\projetos\AssessorProject\Assessor.Api\Assessor.Api.Domain\bin\Debug\netcoreapp3.1\Assessor.Api.Domain.dll
+D:\projetos\AssessorProject\Assessor.Api\Assessor.Api.Domain\obj\Debug\netcoreapp3.1\Assessor.Api.Domain.csprojAssemblyReference.cache
+D:\projetos\AssessorProject\Assessor.Api\Assessor.Api.Domain\obj\Debug\netcoreapp3.1\Assessor.Api.Domain.AssemblyInfoInputs.cache
+D:\projetos\AssessorProject\Assessor.Api\Assessor.Api.Domain\obj\Debug\netcoreapp3.1\Assessor.Api.Domain.AssemblyInfo.cs

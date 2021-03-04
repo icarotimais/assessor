@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wE7wMb1LFd/Oh33mg+GX//RW9zKkJrTiCl6ESLMtoIoUIfKCbHWS/5X6c73C5UP/mQmNOu6I40ENzKk46xZ68Q==",
+  "success": true,
+  "projectFilePath": "D:\\projetos\\AssessorProject\\Assessor.Api\\Assessor.Api.Infra\\Assessor.Infra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Icaro\\.nuget\\packages\\linq2db\\3.2.3\\linq2db.3.2.3.nupkg.sha512",
+    "C:\\Users\\Icaro\\.nuget\\packages\\linq2db.aspnet\\3.2.3\\linq2db.aspnet.3.2.3.nupkg.sha512",
+    "C:\\Users\\Icaro\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.10\\microsoft.extensions.dependencyinjection.3.1.10.nupkg.sha512",
+    "C:\\Users\\Icaro\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.10\\microsoft.extensions.dependencyinjection.abstractions.3.1.10.nupkg.sha512",
+    "C:\\Users\\Icaro\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Icaro\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

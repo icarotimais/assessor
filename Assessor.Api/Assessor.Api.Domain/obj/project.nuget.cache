@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+5w1m9CxwLTs2JminMS9BdYoWDm4Pgyus0NQA6HR5OTRQx/W0yRU5/cEjfLvHMBwsjZGuSk42jYoi27bW+rvMQ==",
+  "success": true,
+  "projectFilePath": "D:\\projetos\\AssessorProject\\Assessor.Api\\Assessor.Api.Domain\\Assessor.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Icaro\\.nuget\\packages\\linq2db\\3.2.3\\linq2db.3.2.3.nupkg.sha512",
+    "C:\\Users\\Icaro\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
