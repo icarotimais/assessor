@@ -3,20 +3,11 @@ import 'package:get_storage/get_storage.dart';
 
 class MenuController extends GetxController {
   final box = GetStorage();
-  
-  @override
-  void onInit() {
-    // TODO: implement onInit
-    super.onInit();
 
-    //box.write("Token", "teste");
+  var paginaSelecionada = "".obs;
 
-    if(box.read("Token") != null)isAuthenticated.value = true;
-    else{ 
-      isAuthenticated.value = false;
-    }
-  }
-
+  var idProfessor = 0.obs;
   var isAuthenticated = false.obs;
-
+  var nome = "".obs;
+  var isAdmin = "".obs;
 }

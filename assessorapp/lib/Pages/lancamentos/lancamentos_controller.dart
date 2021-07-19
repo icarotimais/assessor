@@ -1,23 +1,57 @@
+import 'package:assessorapp/database/LancamentosRepository.dart';
+import 'package:assessorapp/entities/lancamentos.dart';
+import 'package:assessorapp/menu/menu_controller.dart';
+import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 class LancamentosController extends GetxController {
-  var login = "".obs;
-  bool get loginValidate => login.isNotEmpty;
-  String get msgLoginValidate => !loginValidate?"O login deve ser informado":null; 
-  setLogin(String value) => login.value = value;
+  final MenuController menuController = Get.find<MenuController>();
+  final repository = Get.find<LancamentosRepository>();
 
-  var senha = "".obs;
-  bool get senhaValidate => senha.isNotEmpty;
-  String get msgSenhaValidate => !senhaValidate?"A senha deve ser informada":null;
-  setSenha(String value) => senha.value = value; 
-  
-  bool get formValidate => loginValidate && senhaValidate;
+  @override
+  void onInit() {
+    super.onInit();
+  }
 
-  void entrar(){
-    if(formValidate){
-     Get.offAndToNamed("/home");
+  @override
+  void onReady() async {
+    super.onReady();
+    await repository.init();
+    this.buscaLancamentos();
+  }
+
+  @override
+  void onClose() {
+    super.onClose();
+  }
+
+  buscaLancamentos() async {
+    this.lancamentos.clear();
+    if (repository.db.values.isNotEmpty) {
+      this
+          .lancamentos
+          .addAll(repository.getLancamentos(menuController.idProfessor.value));
+    } else {
+      Get.showSnackbar(GetBar(
+        maxWidth: Get.height * .4,
+        title: "Consulta Lancamentos",
+        message: "Nenhum Lancamento encontrado",
+        backgroundColor: Colors.black,
+        snackPosition: SnackPosition.BOTTOM,
+        duration: Duration(seconds: 2),
+        isDismissible: true,
+        onTap: (value) {
+          Get.back();
+        },
+        dismissDirection: SnackDismissDirection.HORIZONTAL,
+      ));
     }
   }
 
+  excluirLancamento(Lancamentos lancamento) async {
+    await repository.delete(lancamento.key);
+    await this.buscaLancamentos();
+  }
 
+  var lancamentos = RxList<Lancamentos>();
 }
